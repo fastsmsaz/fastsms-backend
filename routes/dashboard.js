@@ -13,8 +13,7 @@ const auth = require("../middleware/auth");
 
 const User = require("../models/User");
 
-const Order = require("../models/Order");
-
+const Order = require("../models/order");
 
 
 
